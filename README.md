@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RaulKrivam
+- 👋 Hi, I’m @RaulKrivan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java/Kotlin
 - 💞️ I’m looking to collaborate on any Java/Kotlin projects
